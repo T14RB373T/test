@@ -31,8 +31,6 @@ dependencies:
   flutter:
     sdk: flutter
 
-  cupertino_icons: ^1.0.8
-
   # ✅ WAJIB untuk WebView modern (recommended Flutter)
   webview_flutter: ^4.7.0
 
